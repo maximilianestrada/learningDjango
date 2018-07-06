@@ -44,7 +44,7 @@
     <Compile Include="MyApp1\__init__.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MyApp1\templates\index.html" />
+    <Content Include="MyApp1\templates\MyApp1\index.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <ItemGroup>
@@ -52,6 +52,7 @@
     <Folder Include="MyApp1\" />
     <Folder Include="MyApp1\migrations\" />
     <Folder Include="MyApp1\templates\" />
+    <Folder Include="MyApp1\templates\MyApp1\" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
