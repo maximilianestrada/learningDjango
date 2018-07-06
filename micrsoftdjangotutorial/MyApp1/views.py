@@ -17,6 +17,16 @@ def index(request):
             'content' : " on " + now.strftime("%A, %d %B, %Y at %X")
         }
     )
+
+def about(request):
+    return render(
+        request,
+        "MyApp1/about.html",
+        {
+            'title' : "About HelloDjangoApp",
+            'content' : "Example app page for Django."
+        }
+    )
 #def index(request):
 #    now = datetime.now()
 
