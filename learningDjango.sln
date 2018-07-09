@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "micrsoftdjangotutorial", "m
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWebTut", "DjangoWebTut\DjangoWebTut.pyproj", "{7E1E2778-C737-491D-A949-0B0D3480F7C7}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DjangoWeb", "DjangoWeb\DjangoWeb.pyproj", "{99FFA58D-75B6-4556-9FA4-CD1183DCE81A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7E1E2778-C737-491D-A949-0B0D3480F7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E1E2778-C737-491D-A949-0B0D3480F7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E1E2778-C737-491D-A949-0B0D3480F7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99FFA58D-75B6-4556-9FA4-CD1183DCE81A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99FFA58D-75B6-4556-9FA4-CD1183DCE81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99FFA58D-75B6-4556-9FA4-CD1183DCE81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99FFA58D-75B6-4556-9FA4-CD1183DCE81A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
