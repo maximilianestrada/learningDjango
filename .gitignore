@@ -261,3 +261,4 @@ __pycache__/
 *.pyc
 /micrsoftdjangotutorial/env
 /DjangoWeb/env
+/DjangoPolls/env
